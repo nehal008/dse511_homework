@@ -1,9 +1,9 @@
 Requirements for assignment completion for a course I am taking in the Fall 2023 semester.
-# This is a Heading 1
-## This is a Heading 2
-### This is a Heading 3
+# DSE 511
+## Assignment 2
+### Basics of Git and Github
 
-**This is bold text**
+**Requirements for assignment completion for a course I am taking in the Fall 2023 semester.**
 
 *This is italic text*
 
