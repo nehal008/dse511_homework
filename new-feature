@@ -1,0 +1,35 @@
+## Introduction
+Markdown is a lightweight markup language. Here's how it looks:
+
+### Emphasis
+
+*Use asterisks for italics.*  
+_Use underscores for italics too._
+
+**Use double asterisks for bold.**  
+__Use double underscores for bold as well.__
+
+### Lists
+
+#### Unordered
+- Apple
+- Banana
+  - Cavendish
+  - Plantain
+
+#### Ordered
+1. First item
+2. Second item
+3. Third item
+
+### Links and Images
+
+[Visit OpenAI](https://www.openai.com)
+
+Here's an image placeholder:  
+![Sample Image](https://via.placeholder.com/150)
+
+### Code
+
+Inline `code` looks like this.
+
